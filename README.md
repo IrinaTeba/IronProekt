@@ -1,4 +1,5 @@
 # IronProekt
-https://t.me/xarum_takazov_razgovornik
-https://drive.google.com/drive/folders/1HGWySRVUtUQwylTJyzLk71HOn_1TuNe8?usp=drive_link
+Задачей проекта является формирование датасета звуковых файлов на осетинском (иронском) языке на основе разговорника Харум Алихановича Таказова https://ironau.ru/razgovornik.html
+В канале берем pdf и mp3 https://t.me/xarum_takazov_razgovornik
+Сюда в таблицу и папку sound складываем фрагменты звуков https://drive.google.com/drive/folders/1HGWySRVUtUQwylTJyzLk71HOn_1TuNe8?usp=drive_link
 
